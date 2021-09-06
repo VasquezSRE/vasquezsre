@@ -3,7 +3,7 @@
 My name is Andrés Vásquez, I'm from Colombia and I'm a SRE and Senior Develop.
 
 * Currently working for [@UdeA](https://drai.udea.edu.co/) as a Leader SRE
-* Currently working for [@EpayCO](https://github.com/epayco) as a Junior Develop
+
  
 ## Skills
 
